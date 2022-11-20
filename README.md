@@ -16,3 +16,5 @@ Ctrl or mouse to ATTACK!
 pressing space don't always work(maybe because of the logic error in the code?)
 
 ---
+# Credits
+Thanks to PixelMush(https://assetstore.unity.com/publishers/17384) for his free resources!    
